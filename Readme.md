@@ -56,5 +56,10 @@ Cyclonus
 
 (Starscream)
 
+9. The Autobot symbol of leadership had the same name as a hit movie series decades later. What was its name?
+
+
+(The matrix)
+
 
 
