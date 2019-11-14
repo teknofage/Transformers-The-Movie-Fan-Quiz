@@ -12,11 +12,21 @@ ask_multiple_choice():
         print (f"Not a valid entry. Please try again. ")
     
 ask_numeric_response():
-    
+    guess = input
+    answer = (quiz.question.answer)
+    if guess == answer:
+        print (f"Correct")
+    else:
+        print (f"Incorrect")
     
     
 ask_boolean():
-    
+    guess = input
+    answer = (quiz.question.answer)
+    if guess == answer:
+        print (f"Correct")
+    else:
+        print (f"Incorrect")
     
 
 quizzes = [transformers, capitals, trump_quotes]
