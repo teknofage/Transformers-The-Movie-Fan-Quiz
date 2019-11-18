@@ -26,12 +26,22 @@ Ultra Magnus
 
 3. Wreck-Gar was played my which former member of Monty Python?
 
+John Cleese
+Terry Jones
+Michael Palin
+Eric Idle
+Terry Gilliam
+
 
 (Eric Idle)
 
 4. Which Autobot convinces the Sharkticons to turn on their masters?
 
-
+Hot Rod
+Kup
+Grimlock
+Slagg
+Blurr
 
 5. How many Decepticons does Optimus Prime take out when he returns to Earth and halts the seige of Autobot City, before facing Megatron?
 
@@ -42,30 +52,29 @@ Ultra Magnus
 
 (2)
 
-7. "_____________ shall stand _____________ shall fall." Complete the catchphrase with the appropriate numbers.
+7. "_____________ shall stand _____________ shall fall." Complete the catchphrase with the appropriate number.
 
 
-(One, one)
+(1)
 
-8. Which Decepticon sought to crwon himself leader after the apprent demise of Megatron?
+8. Which Decepticon sought to crown himself leader after the apparent demise of Megatron?
 
 Starscream
 Soundwave
 Shockwave
 Devastator
-Astrotrain
 Cyclonus
 
 (Starscream)
 
-9. The Autobot symbol of leadership had the same name as a hit movie series decades later. What was its name?
+9. The Autobot symbol of leadership had the same name as a hit movie series "The Matrix" decades later. True or False?
 
 
-(The matrix)
+(True)
 
-10. What is the name of the home planet of the Transformers?
+10. The home planet of the Transformers is called Robotron. True or False?
 
-(Cybertron)
+(False)
 
 
 
@@ -111,19 +120,21 @@ number
 
 (1960)
 
-7. In which year did Peking officially change the foreign pronunciation of its name back to Beijing?
+7. In which year did Peking officially start to change the foreign pronunciation of its name back to Beijing?
 
 number
 
 (1949)
 
-8. Beijing is the world's most populated capital city, but which somes in at number 2?
+8. Beijing is the world's most populated capital city, but which city comes in at number 2?
 
 a. New Delhi
 b. Tokyo
 c. Manila
 d. Moscow
 e. Cairo
+
+(New Delhi)
 
 9. Ngerulmud, the capital city of the Pacific island nation of Palau, is the world's least populated national capital. What is its population range?
 

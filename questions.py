@@ -20,10 +20,47 @@ class MultipleChoiceQuestions:
         user_input = input("Enter a letter: a, b, c, d, e")
         answer = op_dict[user_input]
         self.verify(answer)
+        
+        if bool(answer) is correct_answer:
+                result["Correct"] += 1
+                return True
+        else:
+            result["Incorrect"] += 1
+            return False
 
 
-class NumericalAnswerQuestions
+class NumericalAnswerQuestions:
+    def __init__(self, question, answer):
+        self.question = questions
+        self.answer = answer
+        
 
 
+    def verify(self, user_input):
+        return user_input == self.answer
 
-class BooleanQuestions
+
+class BooleanQuestions:
+    def __init__(self, question, answer, options=[True or False]):
+        self.question = questions
+        self.answer = answer
+        
+    def verify(self, user_input):
+        return user_input == self.answer
+    
+        while True:
+                try:
+            print "Q: {}".format(question)
+            answer = int(raw_input("1 for True\n0 for False\nYour answer: "))
+        except ValueError:
+            print "Not a number, please try again\n"
+        else:
+            if answer is not 0 and answer is not 1:
+                print "Invalid value, please try again\n"
+            elif bool(answer) is correct_answer:
+                result["Correct"] += 1
+                return True
+            else:
+                result["Incorrect"] += 1
+                return False
+    
